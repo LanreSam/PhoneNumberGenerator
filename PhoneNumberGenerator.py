@@ -1,3 +1,5 @@
+##Generates Nigerian phone numbers
+
 import random as r
 
 while True:
